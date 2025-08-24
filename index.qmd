@@ -21,34 +21,6 @@ about:
 
 Hazman Naim is a Junior Data Scientist who uses machine learning and automation to turn complex data into clear, actionable insights.
 
-## Education
-
-**University of Malaya** | Kuala Lumpur, Malaysia
-
-B.Sc. in Physics | Sept 2019 – Mac 2023
-
-
-## Experience
-
-**Junior Data Scientist**  
-Apecia | Kuala Lumpur, Malaysia | May 2024 – Present
-
-  - Automated RKE2 cluster deployment across three nodes with Ansible, cutting setup time by 90%.  
-  - Implemented a CI/CD pipeline using Gitea Actions, self‑hosted runners, and Docker to deploy the internal knowledge‑base repository.  
-  - Developed a multi‑agent AI system with LangGraph and LangChain to summarize production and operations data via internal client–server interactions.  
-  - Built an anomaly‑detection solution to monitor production parameters, reducing SPC violations and lowering defect rates.  
-  - Integrated a Neo4j graph database into the internal knowledge base, centralizing data and accelerating retrieval while reducing manual effort.  
-  - Containerized services with Docker for consistent, portable deployments.  
-  - Designed MLOps workflows using MinIO, MLflow, and PostgreSQL to streamline model training and deployment.  
-  - Provisioned disposable Linux VMs on Proxmox to enable rapid, scalable environment provisioning.  
-  - Researched physics‑informed neural networks (PINNs) for digital‑twin simulations using NVIDIA Physics and PyTorch optimization.  
-
-**AI Developer Intern**  
-Dah Reply AI | Kuala Lumpur, Malaysia | Oct 2023 – Jan 2024
-
-  - Developed a chatbot spam‑detection system using the LangChain framework, reducing manual moderation.  
-  - Built a Python module for an LLM‑powered chatbot agent, boosting customer engagement.  
-
 :::
 
-### Let’s connect — [GitHub](https://github.com/HazmanNaim) · [Email](mailto:hazmannaimbinahsan@gmail.com)
+### Let’s connect! — [GitHub](https://github.com/HazmanNaim) · [Email](mailto:hazmannaimbinahsan@gmail.com)

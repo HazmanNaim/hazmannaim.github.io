@@ -11,6 +11,9 @@ website:
   search: false
   navbar:
     background: "#536878"
+    left:
+      - href: about/index.qmd
+        text: About
   page-footer:
     left: "Copyright 2025, Hazman Naim"
     right:
