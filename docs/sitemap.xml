@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hazmannaim.github.io/index.html</loc>
-    <lastmod>2025-08-20T15:05:21.041Z</lastmod>
+    <lastmod>2025-08-24T09:03:45.030Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hazmannaim.github.io/blog/index.html</loc>
+    <lastmod>2025-08-24T08:37:23.805Z</lastmod>
   </url>
   <url>
     <loc>https://hazmannaim.github.io/about/index.html</loc>
     <lastmod>2025-08-24T08:20:29.993Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hazmannaim.github.io/blog/codecrafters.html</loc>
+    <lastmod>2025-08-24T09:03:24.901Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hazmannaim.github.io/codecrafters/index.html</loc>
+    <lastmod>2025-08-24T09:01:08.286Z</lastmod>
   </url>
 </urlset>

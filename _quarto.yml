@@ -14,6 +14,10 @@ website:
     left:
       - href: about/index.qmd
         text: About
+      - href: blog/index.qmd
+        text: Blog
+      - href: codecrafters/index.qmd
+        text: Codecrafters
   page-footer:
     left: "Copyright 2025, Hazman Naim"
     right:

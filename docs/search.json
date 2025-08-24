@@ -4,21 +4,14 @@
     "href": "index.html",
     "title": "Hazman Naim Bin Ahsan",
     "section": "",
-    "text": "Welcome!\n\n  \n \nHazman Naim is a Junior Data Scientist who uses machine learning and automation to turn complex data into clear, actionable insights.\n \n  \n   \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\n\nLet’s connect — GitHub · Email"
+    "text": "Welcome!\n\n  \n \nHazman Naim is a Junior Data Scientist who uses machine learning and automation to turn complex data into clear, actionable insights.\n \n  \n   \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\n\nLet’s connect! — GitHub · Email"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Hazman Naim Bin Ahsan",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "NeuralBites",
     "section": "",
-    "text": "University of Malaya | Kuala Lumpur, Malaysia\nB.Sc. in Physics | Sept 2019 – Mac 2023"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Hazman Naim Bin Ahsan",
-    "section": "",
-    "text": "Junior Data Scientist\nApecia | Kuala Lumpur, Malaysia | May 2024 – Present\n\nAutomated RKE2 cluster deployment across three nodes with Ansible, cutting setup time by 90%.\n\nImplemented a CI/CD pipeline using Gitea Actions, self‑hosted runners, and Docker to deploy the internal knowledge‑base repository.\n\nDeveloped a multi‑agent AI system with LangGraph and LangChain to summarize production and operations data via internal client–server interactions.\n\nBuilt an anomaly‑detection solution to monitor production parameters, reducing SPC violations and lowering defect rates.\n\nIntegrated a Neo4j graph database into the internal knowledge base, centralizing data and accelerating retrieval while reducing manual effort.\n\nContainerized services with Docker for consistent, portable deployments.\n\nDesigned MLOps workflows using MinIO, MLflow, and PostgreSQL to streamline model training and deployment.\n\nProvisioned disposable Linux VMs on Proxmox to enable rapid, scalable environment provisioning.\n\nResearched physics‑informed neural networks (PINNs) for digital‑twin simulations using NVIDIA Physics and PyTorch optimization.\n\nAI Developer Intern\nDah Reply AI | Kuala Lumpur, Malaysia | Oct 2023 – Jan 2024\n\nDeveloped a chatbot spam‑detection system using the LangChain framework, reducing manual moderation.\n\nBuilt a Python module for an LLM‑powered chatbot agent, boosting customer engagement."
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nJoining Codecrafters!\n\n\n\ncodecrafters\n\ncasual\n\n\n\n\n\n\n\n\n\n24 August 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about/index.html",
@@ -40,5 +33,26 @@
     "title": "About me",
     "section": "",
     "text": "Apecia | Kuala Lumpur, Malaysia | May 2024 – Present\nMachine Learning & Data Science\n\nDesigned and maintained end-to-end MLOps workflows using MLflow for experiment tracking and MinIO + PostgreSQL for artifact and metadata storage\n\nDeveloped an anomaly detection system for time-series production data, reducing SPC violations and defect rates through early warning insights\n\nResearched and experimented with physics-informed neural networks (PINNs) using NVIDIA’s physics simulation frameworks to support digital twin modeling\n\nAI & Model Deployment\n\nDeployed Large Language Models (LLMs) using Triton Inference Server on NVIDIA Jetson edge devices, enabling low-latency inference in resource-constrained environments\n\nBuilt a multi-agent AI system using LangGraph and LangChain to summarize operational data via internal client-server communication\n\nDevOps & Automation\n\nImplemented CI/CD pipelines using Gitea Actions, self-hosted runners, and Docker to automate deployment of an internal knowledge base\n\nContainerized services using Docker for reproducible and environment-agnostic deployments across development and production\n\nInfrastructure & System Engineering\n\nAutomated RKE2 Kubernetes cluster deployment across three nodes with Ansible, cutting setup time by 90% and enabling scalable ML model hosting\n\nProvisioned disposable Linux VMs using Proxmox VE to support rapid experimentation and model training at scale\n\nMaintained Linux servers with a focus on least privilege principle, including user account management, file permissions, and system access control\n\nKnowledge Management & Graph Systems\n\nIntegrated a Neo4j graph database into the internal knowledge base, centralizing technical documentation and enabling faster data discovery\n\nManaged and versioned codebases across GitHub and Gitea, following Git best practices for collaboration and release management\n\n\n\n\n\nDah Reply AI | Kuala Lumpur, Malaysia | Oct 2023 – Jan 2024\n\nDeveloped a chatbot spam‑detection system using the LangChain framework, reducing manual moderation.\n\nBuilt a Python module for an LLM‑powered chatbot agent, boosting customer engagement."
+  },
+  {
+    "objectID": "blog/codecrafters.html",
+    "href": "blog/codecrafters.html",
+    "title": "Joining Codecrafters!",
+    "section": "",
+    "text": "One day, while watching a YouTube video from one of my favorite creators, I came across a sponsored segment. I usually skip these parts, but this time I did not because the promoted content really caught my attention.\nThe platform being promoted was called CodeCrafters. It is a place to sharpen your programming skills by building real-world projects, step by step.\nI have tried platforms like HackerRank and LeetCode before. While those platforms are great for learning core programming logic, I often found myself wondering, “Why am I doing this? Just to pass interviews?” With CodeCrafters, my first impression was different. Instead of solving disconnected puzzles, you build real systems—like creating an HTTP server from scratch.\nAfter trying a few challenges, I can say I really enjoy it. Not only does it improve my programming skills, but it also helps me understand how things work under the hood. Finally, I get the feeling of “Ohh, so this is why I am doing this.”\nI liked it so much that I decided to subscribe for a full year (big thanks to my company for sponsoring it!). And now, the adventure begins.\nI will be tracking my progress in real time—check it out here!"
+  },
+  {
+    "objectID": "codecrafters/index.html",
+    "href": "codecrafters/index.html",
+    "title": "Hazman Naim",
+    "section": "",
+    "text": "Build Your Own HTTP Server\n\n\n\n\n\nBuild Your Own Shell"
+  },
+  {
+    "objectID": "codecrafters/index.html#progress-status",
+    "href": "codecrafters/index.html#progress-status",
+    "title": "Hazman Naim",
+    "section": "",
+    "text": "Build Your Own HTTP Server\n\n\n\n\n\nBuild Your Own Shell"
   }
 ]

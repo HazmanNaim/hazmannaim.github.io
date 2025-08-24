@@ -1,0 +1,5 @@
+## Progress Status
+
+[![Build Your Own HTTP Server](https://backend.codecrafters.io/progress/http-server/77e3bbdd-d5e8-4bd9-9cb5-f3eff4e0e768)](https://app.codecrafters.io/users/HazmanNaim)
+
+[![Build Your Own Shell](https://backend.codecrafters.io/progress/shell/f19b0abf-9b4b-420e-b88b-14272bab3a81)](https://app.codecrafters.io/users/HazmanNaim)
