@@ -4,20 +4,6 @@
     "href": "index.html",
     "title": "Hazman Naim Bin Ahsan",
     "section": "",
-    "text": "Hazman Naim is a Junior Data Scientist who uses machine learning and automation to turn complex data into clear, actionable insights.\n\n\nUniversity of Malaya | Kuala Lumpur, Malaysia\nB.Sc. in Physics | Sept 2019 – Mac 2023\n\n\n\nJunior Data Scientist\nApecia | Kuala Lumpur, Malaysia | May 2024 – Present\n\nAutomated RKE2 cluster deployment across three nodes with Ansible, cutting setup time by 90%.\n\nImplemented a CI/CD pipeline using Gitea Actions, self‑hosted runners, and Docker to deploy the internal knowledge‑base repository.\n\nDeveloped a multi‑agent AI system with LangGraph and LangChain to summarize production and operations data via internal client–server interactions.\n\nBuilt an anomaly‑detection solution to monitor production parameters, reducing SPC violations and lowering defect rates.\n\nIntegrated a Neo4j graph database into the internal knowledge base, centralizing data and accelerating retrieval while reducing manual effort.\n\nContainerized services with Docker for consistent, portable deployments.\n\nDesigned MLOps workflows using MinIO, MLflow, and PostgreSQL to streamline model training and deployment.\n\nProvisioned disposable Linux VMs on Proxmox to enable rapid, scalable environment provisioning.\n\nResearched physics‑informed neural networks (PINNs) for digital‑twin simulations using NVIDIA Physics and PyTorch optimization.\n\nAI Developer Intern\nDah Reply AI | Kuala Lumpur, Malaysia | Oct 2023 – Jan 2024\n\nDeveloped a chatbot spam‑detection system using the LangChain framework, reducing manual moderation.\n\nBuilt a Python module for an LLM‑powered chatbot agent, boosting customer engagement.\n\n\n \n  \n   \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Hazman Naim Bin Ahsan",
-    "section": "",
-    "text": "University of Malaya | Kuala Lumpur, Malaysia\nB.Sc. in Physics | Sept 2019 – Mac 2023"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Hazman Naim Bin Ahsan",
-    "section": "",
-    "text": "Junior Data Scientist\nApecia | Kuala Lumpur, Malaysia | May 2024 – Present\n\nAutomated RKE2 cluster deployment across three nodes with Ansible, cutting setup time by 90%.\n\nImplemented a CI/CD pipeline using Gitea Actions, self‑hosted runners, and Docker to deploy the internal knowledge‑base repository.\n\nDeveloped a multi‑agent AI system with LangGraph and LangChain to summarize production and operations data via internal client–server interactions.\n\nBuilt an anomaly‑detection solution to monitor production parameters, reducing SPC violations and lowering defect rates.\n\nIntegrated a Neo4j graph database into the internal knowledge base, centralizing data and accelerating retrieval while reducing manual effort.\n\nContainerized services with Docker for consistent, portable deployments.\n\nDesigned MLOps workflows using MinIO, MLflow, and PostgreSQL to streamline model training and deployment.\n\nProvisioned disposable Linux VMs on Proxmox to enable rapid, scalable environment provisioning.\n\nResearched physics‑informed neural networks (PINNs) for digital‑twin simulations using NVIDIA Physics and PyTorch optimization.\n\nAI Developer Intern\nDah Reply AI | Kuala Lumpur, Malaysia | Oct 2023 – Jan 2024\n\nDeveloped a chatbot spam‑detection system using the LangChain framework, reducing manual moderation.\n\nBuilt a Python module for an LLM‑powered chatbot agent, boosting customer engagement."
+    "text": "Welcome!\n\n  \n \nHazman Naim is a Junior Data Scientist who uses machine learning and automation to turn complex data into clear, actionable insights.\n \n  \n   \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\n\nLet’s connect! — GitHub · Email"
   }
 ]
